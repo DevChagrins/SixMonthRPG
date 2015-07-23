@@ -1,0 +1,1486 @@
+fileFormatVersion: 2
+guid: 729f3c73a3d11ad49a21b64355cc7132
+timeCreated: 1436739611
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: people_pokemone_style_0
+    21300002: people_pokemone_style_1
+    21300004: people_pokemone_style_2
+    21300006: people_pokemone_style_3
+    21300008: people_pokemone_style_5
+    21300010: people_pokemone_style_6
+    21300012: people_pokemone_style_7
+    21300014: people_pokemone_style_8
+    21300016: people_pokemone_style_9
+    21300018: people_pokemone_style_10
+    21300020: people_pokemone_style_11
+    21300022: people_pokemone_style_13
+    21300024: people_pokemone_style_14
+    21300026: people_pokemone_style_15
+    21300028: people_pokemone_style_16
+    21300030: people_pokemone_style_17
+    21300032: people_pokemone_style_18
+    21300034: people_pokemone_style_19
+    21300036: people_pokemone_style_20
+    21300038: people_pokemone_style_21
+    21300040: people_pokemone_style_24
+    21300042: people_pokemone_style_25
+    21300044: people_pokemone_style_27
+    21300046: people_pokemone_style_28
+    21300048: people_pokemone_style_30
+    21300050: people_pokemone_style_31
+    21300052: people_pokemone_style_32
+    21300054: people_pokemone_style_33
+    21300056: people_pokemone_style_35
+    21300058: people_pokemone_style_36
+    21300060: people_pokemone_style_38
+    21300062: people_pokemone_style_39
+    21300064: people_pokemone_style_40
+    21300066: people_pokemone_style_41
+    21300068: people_pokemone_style_42
+    21300070: people_pokemone_style_43
+    21300072: people_pokemone_style_44
+    21300074: people_pokemone_style_45
+    21300076: people_pokemone_style_46
+    21300078: people_pokemone_style_47
+    21300080: people_pokemone_style_48
+    21300082: people_pokemone_style_49
+    21300084: people_pokemone_style_50
+    21300086: people_pokemone_style_51
+    21300088: people_pokemone_style_52
+    21300090: people_pokemone_style_53
+    21300092: people_pokemone_style_54
+    21300094: people_pokemone_style_55
+    21300096: people_pokemone_style_56
+    21300098: people_pokemone_style_60
+    21300100: people_pokemone_style_61
+    21300102: people_pokemone_style_62
+    21300104: people_pokemone_style_63
+    21300106: people_pokemone_style_65
+    21300108: people_pokemone_style_66
+    21300110: people_pokemone_style_67
+    21300112: people_pokemone_style_68
+    21300114: people_pokemone_style_69
+    21300116: people_pokemone_style_70
+    21300118: people_pokemone_style_71
+    21300120: people_pokemone_style_72
+    21300122: people_pokemone_style_73
+    21300124: people_pokemone_style_74
+    21300126: people_pokemone_style_75
+    21300128: people_pokemone_style_76
+    21300130: people_pokemone_style_77
+    21300132: people_pokemone_style_78
+    21300134: people_pokemone_style_79
+    21300136: people_pokemone_style_80
+    21300138: people_pokemone_style_81
+    21300140: people_pokemone_style_82
+    21300142: people_pokemone_style_84
+    21300144: people_pokemone_style_85
+    21300146: people_pokemone_style_91
+    21300148: people_pokemone_style_92
+    21300150: people_pokemone_style_93
+    21300152: people_pokemone_style_94
+    21300154: people_pokemone_style_95
+    21300156: people_pokemone_style_96
+    21300158: people_pokemone_style_98
+    21300160: people_pokemone_style_99
+    21300162: people_pokemone_style_100
+    21300164: people_pokemone_style_101
+    21300166: people_pokemone_style_102
+    21300168: people_pokemone_style_103
+    21300170: people_pokemone_style_104
+    21300172: people_pokemone_style_105
+    21300174: people_pokemone_style_106
+    21300176: people_pokemone_style_107
+    21300178: people_pokemone_style_108
+    21300180: people_pokemone_style_109
+    21300182: people_pokemone_style_111
+    21300184: people_pokemone_style_112
+    21300186: people_pokemone_style_113
+    21300188: people_pokemone_style_115
+    21300190: people_pokemone_style_116
+    21300192: people_pokemone_style_117
+    21300194: people_pokemone_style_118
+    21300196: people_pokemone_style_119
+    21300198: people_pokemone_style_120
+    21300200: people_pokemone_style_121
+    21300202: people_pokemone_style_122
+    21300204: people_pokemone_style_123
+    21300206: people_pokemone_style_124
+    21300208: people_pokemone_style_125
+    21300210: people_pokemone_style_126
+    21300212: people_pokemone_style_127
+    21300214: people_pokemone_style_128
+    21300216: people_pokemone_style_129
+    21300218: people_pokemone_style_130
+    21300220: people_pokemone_style_131
+    21300222: people_pokemone_style_132
+    21300224: people_pokemone_style_133
+    21300226: people_pokemone_style_134
+    21300228: people_pokemone_style_135
+    21300230: people_pokemone_style_136
+    21300232: people_pokemone_style_137
+    21300234: people_pokemone_style_138
+    21300236: people_pokemone_style_139
+    21300238: people_pokemone_style_140
+    21300240: people_pokemone_style_141
+    21300242: people_pokemone_style_142
+    21300244: people_pokemone_style_143
+    21300246: people_pokemone_style_145
+    21300248: people_pokemone_style_146
+    21300250: people_pokemone_style_147
+    21300252: people_pokemone_style_148
+    21300254: people_pokemone_style_149
+    21300256: people_pokemone_style_150
+    21300258: people_pokemone_style_151
+    21300260: people_pokemone_style_152
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: people_pokemone_style_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 801
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 801
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 801
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 800
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 801
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_6
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 800
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_7
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 801
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_8
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 801
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 800
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 801
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 801
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 801
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 721
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 721
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 721
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 722
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 721
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 721
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 721
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_21
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 721
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_24
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 721
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_25
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 721
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_27
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 721
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_28
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 721
+        width: 27
+        height: 71
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 641
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 640
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_32
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 641
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_33
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 641
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_35
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 641
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_36
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 641
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_38
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 641
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_39
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 641
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_40
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 641
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_41
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 641
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 641
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 641
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 561
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 560
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_46
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 561
+        width: 47
+        height: 74
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_48
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 561
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 561
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_50
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 561
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_51
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 560
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_52
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 560
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_53
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 561
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_54
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 561
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_55
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 561
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_56
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 561
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 481
+        width: 48
+        height: 75
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_61
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 481
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_62
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 481
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_63
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 482
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_65
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 481
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_66
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 481
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_67
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 481
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_68
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 481
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_69
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 481
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_70
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 480
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_71
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 481
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_72
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 481
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_73
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 401
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 401
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_75
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 401
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_76
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 400
+        width: 44
+        height: 73
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 401
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_78
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 401
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_79
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 400
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_80
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 400
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_81
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 401
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_82
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 401
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_84
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 400
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_85
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 401
+        width: 39
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_91
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 320
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_92
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 321
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_93
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 320
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_94
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 320
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_95
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 320
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_96
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 321
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_98
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 322
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_99
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 320
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_100
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 321
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_101
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 321
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_102
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 321
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_103
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 322
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_104
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 241
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 241
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_106
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 240
+        width: 59
+        height: 74
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_107
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 241
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_108
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 242
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_109
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 240
+        width: 76
+        height: 66
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_111
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 241
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_112
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 241
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_113
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 241
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_115
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 241
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_116
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 241
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_117
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 241
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_118
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 161
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_119
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 160
+        width: 45
+        height: 80
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_120
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 161
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_121
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 160
+        width: 26
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_122
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 161
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_123
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 160
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_124
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 160
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_125
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 162
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_126
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 160
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_127
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 160
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_128
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 160
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_129
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_130
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 161
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_132
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 81
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_133
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 81
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_134
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 80
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_135
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 80
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_136
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 81
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_137
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 80
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_138
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 83
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_139
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 80
+        width: 29
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_140
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 81
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_141
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 81
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_142
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 81
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_143
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_145
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_146
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_147
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_148
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_149
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_150
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_151
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: people_pokemone_style_152
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
